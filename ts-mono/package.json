@@ -2,7 +2,9 @@
   "name": "@ts-mono/source",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "graph": "nx graph"
+  },
   "private": true,
   "dependencies": {},
   "devDependencies": {
