@@ -1,2 +1,5 @@
 packages: 
-  - "packages/*"
+  - 'packages/*'
+  - 'ng-mono/*'
+  - 'nest-mono/*'
+  - 'libs/*'
